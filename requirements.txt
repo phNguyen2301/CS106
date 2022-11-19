@@ -1,0 +1,2 @@
+pygame==2.1.2
+IPython==8.6.0
